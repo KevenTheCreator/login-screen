@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 360px) and (max-width: 768px) {
+    .container {
+        display: flex;
+        width: 80vw;
+    }
+
+    .lado {
+        width: 100%;
+        height: 100%;
+    }
+
+    .form {
+        width: 30%;
+        height: 80%;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+    .container {
+        display: flex;
+        width: 80vw;
+    }
+
+    .lado {
+        width: 30%;
+        height: 100%;
+    }
+
+    .form {
+        width: 50%;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .container {
+        display: flex;
+        width: 950px;
+    }
+
+    .lado {
+        width: 50%;
+        height: 100%;
+    }
+
+    .form {
+        width: 50%;
+    }
+}
