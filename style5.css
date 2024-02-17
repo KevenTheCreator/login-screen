@@ -88,7 +88,7 @@ form > a:hover {
     }
 
     .lado {
-        width: 60%;
+        width: 50%;
         height: 100%;
     }
 
@@ -98,12 +98,12 @@ form > a:hover {
     }
 
     .form {
-        width: 50%;
+        width: 40%;
         height: 100%;
     }
 
     .box {
-        width: 170px;
+        width: 100px;
     }
 }
 
