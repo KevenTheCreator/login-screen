@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 320px) and (orientation: portrait) {
     .container {
         display: flex;
         width: 100vw;
