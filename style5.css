@@ -80,7 +80,7 @@ form > a:hover {
     background-color: black;
 }
 
-@media screen and (max-width: 460px) {
+@media screen and (max-width: 360px) {
     .container {
         width: 100%;
         display: flex;
@@ -88,7 +88,7 @@ form > a:hover {
     }
 
     .lado {
-        width: 50%;
+        width: 60%;
         height: 100%;
     }
 
@@ -103,7 +103,7 @@ form > a:hover {
     }
 
     .box {
-        width: 200px;
+        width: 170px;
     }
 }
 
