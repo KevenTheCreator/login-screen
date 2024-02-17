@@ -8,17 +8,17 @@
     }
 
     .lado {
-        width: 30%;
+        width: 50%;
         height: 100%;
     }
 
     .lado > img {
-        width: 79%;
+        width: 100%;
         height: 100%;
     }
 
     .form {
-        width: 30%;
+        width: 50%;
         height: 100%;
     }
 }
