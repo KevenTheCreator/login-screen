@@ -25,6 +25,8 @@ form {
     width: 50%;
     align-items: center;
     background-color: whitesmoke;
+    transition:  width 0.3s, height 0.3s;
+    transition-timing-function: ease;
 }
 
 form > a {
