@@ -3,7 +3,7 @@
 @media screen and (min-width: 460px) and (max-width: 768px) {
     .container {
         display: flex;
-        width: 30vw;
+        width: 100vw;
     }
 
     .lado {
