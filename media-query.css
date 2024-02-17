@@ -3,11 +3,11 @@
 @media screen and (min-width: 460px) and (max-width: 768px) {
     .container {
         display: flex;
-        width: 100vw;
+        width: 30vw;
     }
 
     .lado {
-        width: 33%;
+        width: 28%;
         height: 80%;
     }
 
@@ -26,7 +26,7 @@
 @media screen and (min-width: 768px){
     .container {
         display: flex;
-        width: 50vw;
+        width: 80vw;
     }
 
     .lado {
